@@ -3,8 +3,10 @@
 An end-to-end Product & Data Analytics project evaluating Disney+ catalog quality (`1,052` titles) by combining Rotten Tomatoes critic ratings, Machine Learning quality imputation (`Random Forest`), and a hybrid `"Up Next"` recommendation engine (`TF-IDF + Cosine Similarity`).
 
 🔗 **Interactive Tableau Dashboard:** https://public.tableau.com:9443/views/DisneyContentQualityStrategy/DisneyContentQualityUpNextDiscoveryStrategy?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 🔗 **Live "Up Next" Recommender App (Streamlit):** 
 https://disney-plus-content-strategy-6say7rbhxhiwg65vfflo8x.streamlit.app/
+
 ---
 
 ### Business Problem & Context
