@@ -18,9 +18,9 @@ In OTT streaming platforms, cold-start catalog titles (newly released or niche t
 ---
 
 ### Key Analytical Insights
-* **Legacy vs. Originals Quality Gap:** Legacy catalog titles outperform same-year Originals in average quality score (`54.9%` vs. `42.0%` for non-animation; `59.4%` vs. `48.3%` for animation), highlighting the retention value of classic IP.
-* **Runtime Confounding Variable (`r = 0.478`):** Initial EDA suggested longer runtime correlated with higher critic scores. Multivariate segmentation revealed a confounding effect: short-form documentaries (`30–60 mins`) clustered at lower quality scores, whereas feature-length films (`85–130 mins`) maintained consistently high ratings.
-* **Product Action:** Exclude short-form documentaries (`< 60 mins`) from `"Up Next"` auto-play queues immediately following feature-length movies to prevent session drop-off.
+- Legacy catalog titles outperform same-year Originals in average quality score (`54.9%` vs. `42.0%` for non-animation; `59.4%` vs. `48.3%` for animation), highlighting the retention value of classic IP.
+- Initial EDA suggested longer runtime correlated with higher critic scores. Multivariate segmentation revealed a confounding effect: short-form documentaries (`30–60 mins`) clustered at lower quality scores, whereas feature-length films (`85–130 mins`) maintained consistently high ratings.
+- Exclude short-form documentaries (`< 60 mins`) from `"Up Next"` auto-play queues immediately following feature-length movies to prevent session drop-off.
 
 ---
 
